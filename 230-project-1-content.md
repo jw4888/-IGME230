@@ -1,4 +1,4 @@
-# My game
+# Cool it
 
 ## I. High Concept
 Control the aircraft to evade the enemy's attack, and then attack the enemy down.
