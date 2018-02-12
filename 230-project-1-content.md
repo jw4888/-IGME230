@@ -37,10 +37,10 @@ In the game, players can have different directions to improve their ability, fir
 The game may use some of the aircraft material, some of the building materials, if possible, will use some music material
 
 ## IX. About the developer
-⋅⋅* My name: Jixian Wang
-⋅⋅* Major: New Media Interactive Development
-⋅⋅* Minor:
-⋅⋅* Year: Second
-⋅⋅* Skill: C#, a little bit HTML, PHP
-⋅⋅* Interests:Singing, Music
+* My name: Jixian Wang
+* Major: New Media Interactive Development
+* Minor:
+* Year: Second
+* Skill: C#, a little bit HTML, PHP
+* Interests:Singing, Music
 
