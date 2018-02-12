@@ -31,7 +31,8 @@ After entering the game, the first level will have text to guide players how to 
 In the game, players can have different directions to improve their ability, firepower, mobility, defense, etc., different capabilities can bring different effects, players can match their own desired effect.
 
 ## VII. Screenshots
-
+[sketch1](https://github.com/jw4888/-IGME230/blob/master/IMG_20180212_030139_HHT.jpg?raw=true)
+[sketch2](https://github.com/jw4888/-IGME230/blob/master/IMG_20180212_030143_HHT.jpg?raw=true)
 
 ## VIII. Other
 The game may use some of the aircraft material, some of the building materials, if possible, will use some music material
