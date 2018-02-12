@@ -1,4 +1,4 @@
-# Cool it
+# Ace Air Force
 
 ## I. High Concept
 Control the aircraft to evade the enemy's attack, and then attack the enemy down.
@@ -34,7 +34,8 @@ In the game, players can have different directions to improve their ability, fir
 
 
 ## VIII. Other
-
+The game may use some of the aircraft material, some of the building materials, if possible, will use some music material
 
 ## IX. About the developer(s)
+
 
